@@ -1,0 +1,51 @@
+StructLab Manager — Modular Data Structure Practice System
+
+========================================
+ StructLab Manager
+ Modular Data Structure Practice System
+========================================
+1. Lihat data hewan awal
+2. Lihat daftar hewan yang akan dihapus
+3. Jalankan proses penghapusan
+4. Reset data ke awal
+0. Keluar
+Pilih menu (0-4): 1
+
+Data hewan awal:
+1. sapi
+2. kelinci
+3. kambing
+4. unta
+5. domba
+Tekan Enter untuk kembali ke menu...
+
+========================================
+ StructLab Manager
+ Modular Data Structure Practice System
+========================================
+1. Lihat data hewan awal
+2. Lihat daftar hewan yang akan dihapus
+3. Jalankan proses penghapusan
+4. Reset data ke awal
+0. Keluar
+Pilih menu (0-4): 3
+
+Sebelum dihapus: [sapi, kelinci, kambing, unta, domba]
+Hewan yang dihapus: [kelinci, kambing, unta]
+Output: [sapi, domba]
+
+Proses penghapusan selesai menggunakan ArrayList.removeAll().
+Tekan Enter untuk kembali ke menu...
+
+========================================
+ StructLab Manager
+ Modular Data Structure Practice System
+========================================
+1. Lihat data hewan awal
+2. Lihat daftar hewan yang akan dihapus
+3. Jalankan proses penghapusan
+4. Reset data ke awal
+0. Keluar
+Pilih menu (0-4): 0
+
+Keluar dari StructLab Manager. Terima kasih.
